@@ -59,7 +59,7 @@ This Repo will help you to prepare better for CEH - Practical Exam
   6. netdiscover -i eth0 [ https://www.100security.com.br/netdiscover ]
   7. john --format=raw-md5 password.txt [ To change password to plain text ]
   ----------------------------------------------------------
- ### Reach out in case of futher help
+ ### Reach out in case of further help
  Instagram: https://www.instagram.com/bug_xs/
  
  Thank you for reading!! 🙌🙌
