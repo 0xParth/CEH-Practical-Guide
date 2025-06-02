@@ -6,8 +6,8 @@ This Repo will help you to prepare better for CEH - Practical Exam
  - Number of Challenges: 20
  - Duration: 6 hours
  - Passing Score: 70% (14 Questions)
- ----------------------------------------------------------
- ### My Experince
+ ---------------------------------------------------
+ ### My Experience
  - If you are doing bug bounty hunting, then you are half way there.
  - NMAP and wordpress knowledge is really important.
  - Best part - Google searches are allowed (💥)
@@ -16,7 +16,7 @@ This Repo will help you to prepare better for CEH - Practical Exam
  - Simple User Enumeration and OS Banner grabbing
  - Stegnography
  - RDP Connection
- ----------------------------------------------------------
+ ---------------------------------------------------
  ### Tools that will help you to pass exam
  1. NMAP
  2. SQLMap
@@ -33,13 +33,13 @@ This Repo will help you to prepare better for CEH - Practical Exam
  13. Rainbow crack ( This helped me to get my first 3 question answers! )
  14. Nikto
  15. Metasploit
- ----------------------------------------------------------
+ ---------------------------------------------------
  ### Resources
  1. If you can pay then the best resource is ASPEN iLabs.
  2. VulnHub
  3. Tryhackme ( Different related rooms like crackthehash, wirectf, hydra, sqli)
  4. ASPEN iLabs YT video ( https://www.youtube.com/watch?v=ycZFk-GT5-I&list=PLrrgFyE6PtlaCixUxJPM0Y9Peye6iCewH )
-  ----------------------------------------------------------
+  ---------------------------------------------------
   ### Sample Questions
   1. Which username was tampered? ( You need to solving by comparing Hash values)
   2. Wordpress Username Enumeration!
@@ -49,7 +49,7 @@ This Repo will help you to prepare better for CEH - Practical Exam
   6. What is the hidden text in X.jpeg (STEGHIDE)
   7. Password crack for VCRYPT
   8. IP Address/ Version of Running windows Server.
-   ----------------------------------------------------------
+   ---------------------------------------------------
    ### Some of the commands used by me
   1. hydra -l root -P passwords.txt [-t 32] <IP> ftp [ https://securitytutorials.co.uk/brute-forcing-passwords-with-thc-hydra/]
   2. hydra -L usernames.txt -P pass.txt <IP> mysql
@@ -58,7 +58,56 @@ This Repo will help you to prepare better for CEH - Practical Exam
   5. wpscan --url https://10.10.10.10/ --enumerate u
   6. netdiscover -i eth0 [ https://www.100security.com.br/netdiscover ]
   7. john --format=raw-md5 password.txt [ To change password to plain text ]
-  ----------------------------------------------------------
+ ---------------------------------------------------
+ 
+ ### About the Author
+
+ **0xParth** is a passionate cybersecurity professional who brings together expertise in multiple domains:
+
+ - **💻 Security Analyst** - Specializing in vulnerability assessment and security testing
+ - **🏹 Bug Bounty Hunter** - Active participant in bug bounty programs
+ - **👱‍👤 Community Leader** - Leading and contributing to the security community
+ - **📷 YouTuber** - Creating educational content at [@BUGXS](https://youtube.com/@BUGXS)
+
+ #### Connect with 0xParth:
+ - **Instagram**: [@0xparth](https://instagram.com/0xparth)
+ - **LinkedIn**: [/in/parthshu18](https://linkedin.com/in/parthshu18)
+ - **Twitter**: [@0xparth](https://twitter.com/0xparth)
+ - **Medium**: [@0xParth](https://medium.com/@0xParth)
+ - **YouTube**: [@BUGXS](https://youtube.com/@BUGXS)
+
+ #### Tech Stack:
+ C, JavaScript, Python, Shell Script, Linux, Jira, Docker, Postman
+
+ #### Other Projects by 0xParth:
+
+ - **[0xRecon (allsubz)](https://github.com/0xParth/allsubz)** - A powerful subdomain discovery and monitoring tool built with Flask and React. Features real-time monitoring, email notifications, and Nuclei scanning integration for bug bounty hunters.
+ 
+ - **[All-Bug-Dorks](https://github.com/0xParth/All-Bug-Dorks)** - Collection of Google dorks to find Bug Bounty Programs
+ 
+ - **[Network_Scanner](https://github.com/0xParth/Network_Scanner)** - Python-based network scanning tool
+ 
+ - **[MAC_Changer](https://github.com/0xParth/MAC_Changer)** - Script to temporarily change MAC addresses
+ 
+ - **[API_Labs](https://github.com/0xParth/API_Labs)** - Creating API labs for educational purposes
+ 
+ - **[takeoveer](https://github.com/0xParth/takeoveer)** - Web project deployed on Vercel
+ 
+ - **RecIT** - Ultimate Recon Script 💥 (Private Repository)
+ 
+ - **Recon-V2.0** - Advanced reconnaissance tool (Private Repository)
+ 
+ - **certsubs-app & certsubs-corp** - Certificate subdomain tools for bug bounty hunters and enterprises (Private Repositories)
+ 
+ - **IntentClassifier** - TypeScript-based intent classification tool (Private Repository)
+ 
+ - **PromptGuard** - Security tool for prompt protection (Private Repository)
+ 
+ - **DocuCraft-AI** - AI-powered documentation tool (Private Repository)
+
+ 0xParth actively maintains these tools and contributes to the cybersecurity community through various projects focusing on reconnaissance, security testing, and automation.
+
+ ---------------------------------------------------
  ### Reach out in case of further help
  Instagram: https://www.instagram.com/bug_xs/
  
