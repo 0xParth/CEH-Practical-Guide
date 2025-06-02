@@ -88,7 +88,7 @@ This Repo will help you to prepare better for CEH - Practical Exam
  - **[takeoveer](https://github.com/0xParth/takeoveer)** - Subdomain takeover toolkit
  - **[0xParth](https://github.com/0xParth/0xParth)** - Config files for my GitHub profile
  - **[0xparth.github.io](https://github.com/0xParth/0xparth.github.io)** - Personal website
- - **RecIT** - Ultimate Recon Script 💥 (Private)
+ - **RecIT** - Ultimate Recon Script 💥 (Private) - [📖 Detailed Guide](./RecIT-Project-Details.md)
  - **Recon-V2.0** - Backup to /Recon/V2.0 (Private)
  - **certsubs-corp** - Certsubs for Enterprise (Private)
  - **recon** - Reconnaissance tools (Private)
