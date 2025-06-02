@@ -79,34 +79,6 @@ This Repo will help you to prepare better for CEH - Practical Exam
  #### Tech Stack:
  C, JavaScript, Python, Shell Script, Linux, Jira, Docker, Postman
 
- #### Other Projects by 0xParth:
-
- - **[0xRecon (allsubz)](https://github.com/0xParth/allsubz)** - A powerful subdomain discovery and monitoring tool built with Flask and React. Features real-time monitoring, email notifications, and Nuclei scanning integration for bug bounty hunters.
- 
- - **[All-Bug-Dorks](https://github.com/0xParth/All-Bug-Dorks)** - Collection of Google dorks to find Bug Bounty Programs
- 
- - **[Network_Scanner](https://github.com/0xParth/Network_Scanner)** - Python-based network scanning tool
- 
- - **[MAC_Changer](https://github.com/0xParth/MAC_Changer)** - Script to temporarily change MAC addresses
- 
- - **[API_Labs](https://github.com/0xParth/API_Labs)** - Creating API labs for educational purposes
- 
- - **[takeoveer](https://github.com/0xParth/takeoveer)** - Web project deployed on Vercel
- 
- - **RecIT** - Ultimate Recon Script 💥 (Private Repository)
- 
- - **Recon-V2.0** - Advanced reconnaissance tool (Private Repository)
- 
- - **certsubs-app & certsubs-corp** - Certificate subdomain tools for bug bounty hunters and enterprises (Private Repositories)
- 
- - **IntentClassifier** - TypeScript-based intent classification tool (Private Repository)
- 
- - **PromptGuard** - Security tool for prompt protection (Private Repository)
- 
- - **DocuCraft-AI** - AI-powered documentation tool (Private Repository)
-
- 0xParth actively maintains these tools and contributes to the cybersecurity community through various projects focusing on reconnaissance, security testing, and automation.
-
  ---------------------------------------------------
  ### Reach out in case of further help
  Instagram: https://www.instagram.com/bug_xs/
